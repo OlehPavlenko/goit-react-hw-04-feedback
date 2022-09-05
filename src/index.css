@@ -13,3 +13,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.button {
+  margin-right: 10px;
+}
+
+.good {
+  background-color: green;
+}
+
+.neutral {
+  background-color: yellow
+}
+
+.bad {
+  background-color: red;
+}
