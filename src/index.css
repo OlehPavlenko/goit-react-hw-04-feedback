@@ -15,17 +15,10 @@ code {
 }
 
 .button {
-  margin-right: 10px;
-}
-
-.good {
-  background-color: green;
-}
-
-.neutral {
-  background-color: yellow
-}
-
-.bad {
-  background-color: red;
+  color: black;
+    font-size: 30px;
+    margin: 10px;
+    padding: 5px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
 }
